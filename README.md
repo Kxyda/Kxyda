@@ -212,7 +212,7 @@
 |---------|--------------|------------|
 | **MyCards** | Collaborative Web Application für Trading Cards | TypeScript, HTML, CSS,... |
 | **Portfolio Seite** | Persönliche Developer Portfolio Website | HTML, CSS, JavaScript... |
-| **Unity Game** | Game mit Star-Progression System | Unity, C#, Blender... |
+| **Unity Game** | In Planung.. | Unity, C#, Blender... |
 
 </div>
 
