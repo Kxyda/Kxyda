@@ -84,17 +84,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kxyda&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📫 Kontakt & Social Media
 
 <p align="center">
@@ -111,7 +100,7 @@
 
 <div align="center">
 
-### 💼 HSMW Student | Applied Computer Science
+### HSMW Student | Applied Computer Science
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxyda&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -121,7 +110,7 @@
 
 <div align="center">
 
-### ⚡ Fun Fact
+### Fun Fact
 
 *"Debugging ist wie ein Detektivspiel, nur dass du auch der Mörder bist!"*
 
