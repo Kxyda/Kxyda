@@ -8,19 +8,17 @@
 
 ---
 
-## 🚀 Über mich
+## Über mich
 
-🎯 Entwickle aktuell Spiele in Unity mit C#  
-🌱 Lerne Full-Stack Development  
-🕹️ League of Legends & Horror Games Enthusiast  
-🇩🇪 Based in Germany  
-☕ Teetrinker (mein Lebenselixier!)
-
+- Entwickle aktuell Spiele in Unity mit C#  
+- Lerne Full-Stack Development  
+- League of Legends & Horror Games Enthusiast  
+- 🇩🇪 Based in Germany  
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programmiersprachen
+### Programmiersprachen
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +26,7 @@
   </a>
 </p>
 
-### 🧰 Frameworks & Tools
+### Frameworks & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +34,7 @@
   </a>
 </p>
 
-### 💻 Development Tools
+### Development Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +42,7 @@
   </a>
 </p>
 
-### 🗄️ Andere Technologien
+### Andere Technologien
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -54,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -71,7 +69,7 @@
 
 ---
 
-## 🎮 Aktuelle Projekte
+## Aktuelle Projekte
 
 <div align="center">
 
@@ -84,7 +82,7 @@
 </div>
 
 ---
-## 📫 Kontakt & Social Media
+## Kontakt & Social Media
 
 <p align="center">
   <a href="https://linktr.ee/Kxyda">
